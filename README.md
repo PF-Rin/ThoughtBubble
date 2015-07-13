@@ -10,5 +10,9 @@ dd/mm/yy timestamp: Comment
 13/07/15 8:43 AM: Began setting up server.
 13/07/15 9:02 AM: Digital Ocean droplet created, time to start set-up.
 13/07/15 9:22 AM: After incorrecly entering the root password 4 times, I have finally gained access.
-13/07/15 9:41 AM: Basic configuration done, time to start installing LAMP
+13/07/15 9:41 AM: Basic configuration done, time to start installing Apache
 13/07/15 9:47 AM: Apache2 installed.
+13/07/15 9:56 AM: MySQL installed and configured.
+13/07/15 10:02 AM: PHP5 installed, choosing necessary modules.
+13/07/15 10:05 AM: I have no idea what most of these modules are for. I'm going to read the descriptions for all of them.
+13/07/15 10:28 AM: There are tons of modules, but only about 3 I need.
