@@ -10,3 +10,5 @@ dd/mm/yy timestamp: Comment
 13/07/15 8:43 AM: Began setting up server.
 13/07/15 9:02 AM: Digital Ocean droplet created, time to start set-up.
 13/07/15 9:22 AM: After incorrecly entering the root password 4 times, I have finally gained access.
+13/07/15 9:41 AM: Basic configuration done, time to start installing LAMP
+13/07/15 9:47 AM: Apache2 installed.
